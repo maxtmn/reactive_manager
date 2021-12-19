@@ -13,6 +13,7 @@ The _Reactive Manager_ effectively detect and deal with problems. Focus on provi
 The manager is always a proxy in the data flow. Either asked for some information or given the information.
 
 The entry point for the _Responsiveness_ is managers input channels. Nowadays, we overwhelmed with possible inputs: social media, phone, text messages, emails, notifications, face-to-face, group meetings, etc. All possible kinds of consumable information. There is some general suggestions as for response times.
+
 *Face-to-Face*::
 JIT. Just-In-Time. Question need to be answered during the conversation. If there is not enough information to provide full (or correct) response: partial response is given. With the further agreement on When/How other information can be received.
 
