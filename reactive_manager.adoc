@@ -1,0 +1,45 @@
+= The Reactive Management
+:Author:    Maksym Tereshchenko
+:Date:      17.12.2021
+:Revision:  1.0.0
+
+ifdef::env-vscode[:relfilesuffix: .adoc]
+
+_Reactive Operational Principles in People Management_
+
+[NOTE]
+===============================
+The purpose of that document is to empower visionary leadership.
+===============================
+
+The complexity of environments we work in is growing. Paradigms, methods, frameworks, and patterns, mental models become part of the managerial toolbox. People leaders took the responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
+
+To be _Reactive_ does not mean to wait for something to happen before acting. 
+To be _Reactive_ means: +
+
+. to have a proper mindset 
+. to be ready to cope with highly concurrent and distributed teams or individuals 
+. to scale in decisions
+. to be resilient
+
+To be _Reactive_ means to accumulate enough potential energy for changes.
+
+The expectation for the people leaders is not only to be fluent in operational frameworks but to be a part of a change. 
+
+It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
+
+Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox.
+So far, it takes decades to recognize, appreciate and implement *BIG* changes in people management.
+
+*Reactive Principles* can be adapted to serve managerial needs.
+
+[Reactive_Principles]
+====
+xref:principles/reactive_principles{relfilesuffix}[Reactive Principles:] 
+
+    * xref:principles/reactive_principles{relfilesuffix}#Responsiveness[Responsiveness]
+
+    * xref:principles/reactive_principles{relfilesuffix}#Elasticity[Elasticity]
+
+    * xref:principles/reactive_principles{relfilesuffix}#Resilience[Resilience]
+====

@@ -1,0 +1,43 @@
+= Reactive Principles
+
+ifdef::env-vscode[:relfilesuffix: .adoc]
+
+[INFO]
+===============================
+Paradigms and patterns from _Reactive Programming_ and _Reactive Systems_ allow architects and developers to design and implement highly concurrent and distributed software that is performant, scalable, and resilient. _Reactive Systems_ are more flexible and loosely-coupled. They are significantly more tolerant of failure. Reactive Systems are highly responsive, giving users effective interactive feedback.
+===============================
+
+Quick and often application requirements changes become the precursor for a new paradigm in software design. Few of the most visible triggers: 
+
+* response time measured in milliseconds
+* multi-core processors for distributed computations
+* uptime close to 100%
+* data streaming
+* cloud-native applications
+* edge-native applications 
+* etc.
+
+New systems are built with *Reactive Principles* in their souls.
+
+While engineers start to adopt a new paradigm, they digest it and absorb it. New mental models build upon it. The term *Reactive* gain its' popularity.
+
+Engineers used to perceive the world around them in terms of CPU time and resources utilization. What makes them highly sensitive to not optimal processes. 
+There is no need for sociological researches to see how a new practice influence behavior of a group. You can observe it right next-door-project-team. 
+
+That is a time to listen to engineers and calibrate our managerial perception.
+
+[#Responsiveness]
+* xref:responsiveness{relfilesuffix}[Responsiveness] +
+The manager should respond on time. + 
+Always.
+
+[#Elasticity]
+* xref:elasticity{relfilesuffix}[Elasticity] +
+The manager stays responsive under varying workloads.
+
+[#Resilience]
+* xref:resilience{relfilesuffix}[Resilience] +
+The manager stays responsive in the face of failure.
+
+[#Back_To]
+<- xref:../reactive_manager{relfilesuffix}[Back to Reactive Manager]

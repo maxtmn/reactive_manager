@@ -1,0 +1,13 @@
+== Elasticity
+ifdef::env-vscode[:relfilesuffix: .adoc]
+
+The manager stays responsive under varying workloads.
+
+_Reactive manager_ can react to changes in the tasks input rate by increasing or decreasing resources available for the process. 
+This implies designs of processes that have no contention points or central bottlenecks, resulting in the ability to share the tasks with peers and distribute inputs among them. 
+Processes built by the reactive manager are predictive and easy to live performance check.
+
+TIP: You are never too busy if you are running an efficient operation.
+
+[#Back_To]
+<- xref:reactive_principles{relfilesuffix}[Back to Reactive Principles]
