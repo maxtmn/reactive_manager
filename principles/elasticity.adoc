@@ -10,4 +10,4 @@ Processes built by the reactive manager are predictive and easy to live performa
 TIP: You are never too busy if you are running an efficient operation.
 
 [#Back_To]
-<- xref:reactive_principles{relfilesuffix}[Back to Reactive Principles]
+<- link:reactive_principles.adoc[Back to Reactive Principles]

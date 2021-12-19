@@ -1,11 +1,10 @@
 = Index
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
 [Reactive_Manager]
-xref:reactive_manager{relfilesuffix}[Reactive Manager] 
+link:reactive_manager.adoc[Reactive Manager] 
 
 [Reactive_Principles]
-* xref:principles/reactive_principles{relfilesuffix}[Reactive Principles]
-    ** xref:principles/reactive_principles{relfilesuffix}#Responsiveness[Responsiveness]
-    ** xref:principles/reactive_principles{relfilesuffix}#Elasticity[Elasticity]
-    ** xref:principles/reactive_principles{relfilesuffix}#Resilience[Resilience]
+* link:principles/reactive_principles.adoc[Reactive Principles]
+    ** link:principles/reactive_principles.adoc#Responsiveness[Responsiveness]
+    ** link:principles/reactive_principles.adoc#Elasticity[Elasticity]
+    ** link:principles/reactive_principles.adoc#Resilience[Resilience]

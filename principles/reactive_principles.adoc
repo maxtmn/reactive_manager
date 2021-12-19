@@ -27,17 +27,17 @@ There is no need for sociological researches to see how a new practice influence
 That is a time to listen to engineers and calibrate our managerial perception.
 
 [#Responsiveness]
-* xref:responsiveness{relfilesuffix}[Responsiveness] +
+* link:responsiveness.adoc[Responsiveness] +
 The manager should respond on time. + 
 Always.
 
 [#Elasticity]
-* xref:elasticity{relfilesuffix}[Elasticity] +
+* link:elasticity.adoc[Elasticity] +
 The manager stays responsive under varying workloads.
 
 [#Resilience]
-* xref:resilience{relfilesuffix}[Resilience] +
+* link:resilience.adoc[Resilience] +
 The manager stays responsive in the face of failure.
 
 [#Back_To]
-<- xref:../reactive_manager{relfilesuffix}[Back to Reactive Manager]
+<- link:../reactive_manager.adoc[Back to Reactive Manager]

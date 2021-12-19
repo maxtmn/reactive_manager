@@ -12,4 +12,4 @@ It is not only about the fast response time, but also about managing changes.
 _Reactive manager_ effectively detect and deal with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager do not know the right answer or provide not full answer, but still deliver a value.
 
 [#Back_To]
-<- xref:reactive_principles{relfilesuffix}[Back to Reactive Principles]
+<- link:reactive_principles.adoc[Back to Reactive Principles]
