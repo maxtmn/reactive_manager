@@ -11,7 +11,7 @@ _Reactive Operational Principles in People Management_
 The purpose of that document is to empower visionary leadership.
 ===============================
 
-The complexity of environments we work in is growing. Paradigms, methods, frameworks, and patterns, mental models become part of the managerial toolbox. People leaders took the responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
+The complexity of environments we work in is growing. Paradigms, methods, frameworks, patterns and mental models become part of the managerial toolbox. People leaders took the responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
 
 To be _Reactive_ does not mean to wait for something to happen before acting. 
 To be _Reactive_ means: +
