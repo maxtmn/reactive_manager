@@ -1,15 +1,20 @@
 == Responsiveness
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
 The manager should respond on time. + 
 Always.
 
-The manager is always a proxy in the data flow. Either asked for some information or given the information to be delivered. 
-
 It doesn't matter if a manager has all the resources needed to run the processes right if a manager cannot react/respond within the time constraints. 
 It is not only about the fast response time, but also about managing changes. 
 
-_Reactive manager_ effectively detect and deal with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager do not know the right answer or provide not full answer, but still deliver a value.
+The _Reactive Manager_ effectively detect and deal with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager do not know the right answer or provide not full answer, but still deliver a value.
+
+=== Implications
+
+The manager is always a proxy in the data flow. Either asked for some information or given the information.
+
+The entry point for the _Responsiveness_ is managers input channels. Nowadays, we overwhelmed with possible inputs: social media, phone, text messages, emails, notifications, face-to-face, group meetings, etc. All possible kinds of consumable information. There is some general suggestions as for response times.
+*Face-to-Face*::
+JIT. Just-In-Time. Question need to be answered during the conversation. If there is not enough information to provide full (or correct) response: partial response is given. With the further agreement on When/How other information can be received.
 
 [#Back_To]
 <- link:reactive_principles.adoc[Back to Reactive Principles]
