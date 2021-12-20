@@ -25,5 +25,7 @@ write about mental model to cope with input channels.
 
 ////
 
+Same expectations and same understanding of communication channel should be shared between all the counter parties. 
+
 [#Back_To]
 <- link:reactive_principles.adoc[Back to Reactive Principles]
