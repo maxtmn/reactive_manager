@@ -40,8 +40,6 @@ To cope with these assumptions, any tool should be highly flexible and adaptive.
 Putting strict requirements upfront makes no sense. Instead the accent should be on _Elasticity_. While the content and the shape matters, the _Responsiviness_ is a must have. Ability to operate in the face of exceptional situations is nothing else, then _Resilience_.
 _Responsiveness_, _Elasticity_ and _Resilience_ - are the pillars of _Reactive Principles_.
 
-*Reactive Principles* can be adapted to serve managerial needs.
-
 [Reactive_Principles]
 ====
 link:principles/reactive_principles.adoc[Reactive Principles:]:: 
