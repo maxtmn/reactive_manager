@@ -28,11 +28,16 @@ To be _Reactive_ means::
 
 It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
 
-////
-Short intro to what it is 'reactive principles'
-////
-Human interactions are complex. Any tool should be highly flexible and adaptive.
-It is 
+Human interactions are complex. Operations and processes can be complex as well. Dynamic nature of the managerial environment highlights some assumptions: + 
+* non-deterministic outcomes for the action
+* non-deterministic outcomes for the no-action
+* continuous calibration required
+* in-build observability required
+* past experience cannot be externally 'patternezied' for future re-usage
+
+To cope with these assumptions, any tool should be highly flexible and adaptive.
+Putting strict requirements upfront makes no sense. Instead the accent should be on _Elasticity_. While the content and the shape matters, the _Responsiviness_ is a must have. Ability to operate in the face of exceptional situations is nothing else, then _Resilience_.
+_Responsiveness_, _Elasticity_ and _Resilience_ - are the pillars of _Reactive Principles_.
 
 *Reactive Principles* can be adapted to serve managerial needs.
 
