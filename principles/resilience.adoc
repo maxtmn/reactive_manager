@@ -1,8 +1,13 @@
 == Resilience
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
-Reactive manager stays responsive in the face of failure. + 
-Reactive manager can operate under the exceptional situations. Resilience is achieved by knowledge sharing, transparency and delegation.
+The manager stays responsive in the face of failure.
+
+The _Reactive Manager_ can operate under exceptional situations. Resilience can be achieved by knowledge sharing, transparency, and delegation.
+
+////
+IoT. 
+redutancy in duplication
+////
 
 [#Back_To]
 <- link:reactive_principles.adoc[Back to Reactive Principles]

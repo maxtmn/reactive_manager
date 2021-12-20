@@ -1,5 +1,4 @@
 == Elasticity
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
 The manager stays responsive under varying workloads.
 
