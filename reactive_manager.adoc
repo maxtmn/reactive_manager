@@ -28,7 +28,8 @@ To be _Reactive_ means::
 
 It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
 
-Human interactions are complex. Operations and processes can be complex as well. Dynamic nature of the managerial environment highlights some assumptions: + 
+Human interactions are complex. Operations and processes can be complex as well. Dynamic nature of the managerial environment highlights some assumptions:
+
 * non-deterministic outcomes for the action
 * non-deterministic outcomes for the no-action
 * continuous calibration required
