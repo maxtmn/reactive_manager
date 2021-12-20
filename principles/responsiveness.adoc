@@ -17,5 +17,8 @@ The entry point for the _Responsiveness_ is managers input channels. Nowadays, w
 *Face-to-Face*::
 JIT. Just-In-Time. Question need to be answered during the conversation. If there is not enough information to provide full (or correct) response: partial response is given. With the further agreement on When/How other information can be received.
 
+*Emails*::
+Hours to Days. Hard to imagine setup without 'corporate mail box'. The main source of a truth in escalations and decisions approvals. Explicit response is not necessarily needed. One-size-fits-all approach turns email into the noisiest channel. Wide distribution lists, partial or no context, blurred time lines, not clear, not defined priorities - extra care needed to provide consistent respond. 
+
 [#Back_To]
 <- link:reactive_principles.adoc[Back to Reactive Principles]
