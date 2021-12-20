@@ -13,9 +13,9 @@ The purpose of that document is to empower visionary leadership.
 Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox.
 So far, it takes decades to recognize, appreciate and implement *BIG* changes in people management.
 
-The complexity of environments we work in is growing. Paradigms, methods, frameworks, patterns and mental models become part of the managerial toolbox. It is the leaders' responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
+The complexity of environments we work in is growing. Paradigms, methods, frameworks, patterns, and mental models become part of the managerial toolbox. It is the leaders' responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
 
-The expectation for the people leaders is not only to be fluent in operational frameworks but to be a part of a change. To be the _Reactive Manager_.
+The expectation for the people leaders is not only to be fluent in operational frameworks but to be a part of a change, to be the _Reactive Manager_.
 
 To be _Reactive_ does not mean to wait for something to happen before acting. 
 
@@ -24,7 +24,7 @@ To be _Reactive_ means::
 . to be ready to cope with highly concurrent and distributed teams or individuals 
 . to scale in decisions
 . to be resilient
-. to accumulate enough potential energy for changes.
+. to accumulate enough potential energy for changes
 
 It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
 
