@@ -31,13 +31,22 @@ It is no longer about the single person. All that we do is either driven by soci
 ////
 Short intro to what it is 'reactive principles'
 ////
+Human interactions are complex. Any tool should be highly flexible and adaptive.
+It is 
 
 *Reactive Principles* can be adapted to serve managerial needs.
 
 [Reactive_Principles]
 ====
 link:principles/reactive_principles.adoc[Reactive Principles:]:: 
-    * link:principles/reactive_principles.adoc#Responsiveness[Responsiveness]
-    * link:principles/reactive_principles.adoc#Elasticity[Elasticity]
-    * link:principles/reactive_principles.adoc#Resilience[Resilience]
+    * link:principles/reactive_principles.adoc#Responsiveness[Responsiveness]::
+The manager should respond on time.
+Always.
+
+    * link:principles/reactive_principles.adoc#Elasticity[Elasticity]::
+The manager stays responsive under varying workloads.
+
+    * link:principles/reactive_principles.adoc#Resilience[Resilience]::
+The manager stays responsive in the face of failure.
+
 ====
