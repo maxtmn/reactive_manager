@@ -5,12 +5,16 @@ The manager stays responsive under varying workloads.
 // end::quoute[] 
 
 _Reactive manager_ can react to changes in the tasks input rate by increasing or decreasing resources available for the process. 
-This implies designs of processes that have no contention points or central bottlenecks, resulting in the ability to share the tasks with peers and distribute inputs among them. 
+This implies designs of processes that have no contention points or central bottlenecks. 
+_Reactive Manager_ can share tasks with peers and distribute workload among them. 
 Processes built by the reactive manager are predictive and easy to live performance check.
 
 TIP: You are never too busy if you are running an efficient operation.
 
 _Elasticity_ is achieved by redundancy in resources sharing.
+
+=== Implication
+
 
 [#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]

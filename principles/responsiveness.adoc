@@ -25,10 +25,10 @@ Hours to Days. Hard to imagine the setup without 'a corporate mail box'. The mai
 No communication channel is perfect or close to perfect. 
 
 *Face-to-Face*::
-Characterized by close to realtime response time but limited in target group (one-to-one in most cases) and there is always a risk of missing information to provide complete response.
+Characterized by close to real-time response time but limited in a target group (one-to-one in most cases), and there is always a risk of missing information to provide a complete response.
 
 *Emails*::
-Decoupled in time. There is no expectation to receive the response immediately but it is easy to miss-understand the request or to miss the entire request, or the recipient can miss the response. While mail providers can guarantee envelope delivery but none can guarantee that message will full-fill it's goal.  
+Characterized by time decoupling. There is no expectation to receive a response immediately. Easy to miss-understand the request or to miss the entire request, or the recipient can miss the response. While mail providers can guarantee envelope delivery but none can guarantee that message will full-fill it's goal.
 
 Effective communication is clear, concise, professional, and credible. It saves time. It is always acknowledged.
 
