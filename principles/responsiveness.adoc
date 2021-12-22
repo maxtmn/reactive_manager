@@ -1,7 +1,8 @@
 == Responsiveness
-
+// tag::quoute[] 
 The manager should respond on time. + 
 Always.
+// end::quoute[]
 
 It doesn't matter if a manager has all the resources needed to run the processes right if a manager cannot react/respond within the time constraints. 
 It is not only about fast response times but change management as well. 
@@ -31,5 +32,5 @@ Decoupled in time. There is no expectation to receive the response immediately b
 
 Effective communication is clear, concise, professional, and credible. It saves time. It is always acknowledged.
 
-[#Back_To]
+[#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]

@@ -26,16 +26,15 @@ That is a time to listen to engineers and calibrate our managerial perception.
 
 [#Responsiveness]
 -> link:responsiveness.adoc[Responsiveness]::
-The manager should respond on time. + 
-Always.
+include::responsiveness.adoc[tag=quoute]
 
 [#Elasticity]
 -> link:elasticity.adoc[Elasticity]::
-The manager stays responsive under varying workloads.
+include::elasticity.adoc[tag=quoute]
 
 [#Resilience]
 -> link:resilience.adoc[Resilience]::
-The manager stays responsive in the face of failure.
+include::resilience.adoc[tag=quoute]
 
-[#Back_To]
+[#Navigate]
 <- link:../reactive_manager.adoc[Back to Reactive Manager]

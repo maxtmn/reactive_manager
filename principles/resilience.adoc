@@ -1,6 +1,8 @@
 == Resilience
 
+// tag::quoute[] 
 The manager stays responsive in the face of failure.
+// end::quoute[] 
 
 The _Reactive Manager_ can operate under exceptional situations. _Resilience_ can be achieved by knowledge sharing, transparency, and delegation.
 
@@ -9,5 +11,5 @@ IoT.
 redutancy in duplication
 ////
 
-[#Back_To]
+[#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]
