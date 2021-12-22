@@ -14,7 +14,10 @@ _Elasticity_ is achieved by redundancy in resources sharing.
 
 === Implications
 
-_Elasticity_ in a face of resource sharing is limited by actor characteristics. Human beings are not scalable and rarely interchangeable.
+_Elasticity_ in a face of resource sharing is limited by actor characteristics. 
+Managerial process is bind to its actor - a manager. Human beings are not multiply-able and rarely interchangeable. 
+Scalability is limited by possibility to proceed with mental task. 
+Cognitive functions are affected by many factors and can not be seen as something constant.
 
 Common mental model for operations processing is orchestration. In such model manager is the central point in the process flow (linked actions). Each individual action is observed by a manager. Action effects are consumed by a manager and used for further state computation (decision making).
 The process flow is anemic. 
