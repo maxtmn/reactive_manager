@@ -1,7 +1,7 @@
 = The Reactive Management
 :Author:    Maksym Tereshchenko
 :Date:      23.12.2021
-:Revision:  1.0.0
+:Revision:  1.0.1
 :sectnums:
 :toc: left
 :toclevels: 2
