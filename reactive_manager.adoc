@@ -1,7 +1,7 @@
 = The Reactive Management
 :Author:    Maksym Tereshchenko
-:Date:      20.12.2021
-:Revision:  0.0.1
+:Date:      23.12.2021
+:Revision:  1.0.0
 
 _Reactive Operational Principles in People Management_
 
