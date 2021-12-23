@@ -1,9 +1,10 @@
-= Reactive Principles
+[#reactive-principles]
+== Reactive Principles
 
-[INFO]
-===============================
+[NOTE]
+====
 Paradigms and patterns from _Reactive Programming_ and _Reactive Systems_ allow architects and developers to design and implement highly concurrent and distributed software that is performant, scalable, and resilient. _Reactive Systems_ are more flexible and loosely-coupled. They are significantly more tolerant of failure. _Reactive Systems_ are highly responsive, giving users effective interactive feedback.
-===============================
+====
 
 Quick and often application requirements changes become the precursor for a new paradigm in software design. Few of the most visible triggers: 
 
@@ -24,17 +25,8 @@ There is no need for sociological researches to see how a new practice influence
 
 That is a time to listen to engineers and calibrate our managerial perception.
 
-[#Responsiveness]
--> link:responsiveness.adoc[Responsiveness]::
-include::responsiveness.adoc[tag=quoute]
+include::responsiveness.adoc[responsiveness]
 
-[#Elasticity]
--> link:elasticity.adoc[Elasticity]::
-include::elasticity.adoc[tag=quoute]
+include::elasticity.adoc[elasticity]
 
-[#Resilience]
--> link:resilience.adoc[Resilience]::
-include::resilience.adoc[tag=quoute]
-
-[#Navigate]
-<- link:../reactive_manager.adoc[Back to Reactive Manager]
+include::resilience.adoc[resilience]

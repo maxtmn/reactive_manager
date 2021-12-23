@@ -1,4 +1,5 @@
-== Elasticity
+[#elasticity]
+=== Elasticity
 
 // tag::quoute[] 
 The manager stays responsive under varying workloads.
@@ -13,7 +14,7 @@ TIP: You are never too busy if you are running an efficient operation.
 
 _Elasticity_ is achieved by redundancy in resources sharing.
 
-=== Implications
+==== Implications
 
 _Elasticity_ in the face of resource sharing is limited by actor characteristics. 
 
@@ -34,14 +35,14 @@ Limitations::
 
 A natural limit for scalability is *working memory* capacity. Without affecting overall performance, *working memory* can hold 3 to 7 tasks on average.  
 
-"Working memory":: 
+[NOTE]
+====
+Working memory:: 
 describes a unique short-term active storage mechanism that is used to achieve a variety of cognitive activities: including thinking, reasoning, judging, decision-making, and language comprehension.
+====
 
 When there is a demand to run more operations (processes) than manager *working memory* capacity, there will be a performance drop-off.
 
 Anemic processes are hard to share or delegate. It requires an expensive process of knowledge sharing and state synchronization. Both time and resources consuming. 
 
 When possible, processes should co-locate data, processes, and decision-making mechanisms. Turning anemic processes into the rich ones and alowing low-cost processes delegation or sharing.
-
-[#Navigate]
-<- link:reactive_principles.adoc[Back to Reactive Principles]

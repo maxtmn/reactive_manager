@@ -1,0 +1,25 @@
+Index::
+. link:docs/reactive_manager.adoc[Reactive Manager]
+.. link:docs/principles/reactive_principles.adoc[Reactive Principles]
+... link:docs/principles/responsiveness.adoc[Responsiveness] +
+include::docs/principles/responsiveness.adoc[tag=quoute]
+... link:docs/principles/elasticity.adoc[Elasticity] + 
+include::docs/principles/elasticity.adoc[tag=quoute]
+... link:docs/principles/resilience.adoc[Resilience] + 
+include::docs/principles/resilience.adoc[tag=quoute]
+
+To build _The Reactive Manager_ documentation.
+
+HTML::
+[source]
+----
+./dtcw.ps1 generateHTML
+----
+
+PDF::
+[source]
+----
+./dtcw.ps1 generatePdf
+----
+
+Documentation will be available under the 'build' directory.

@@ -1,5 +1,6 @@
-[[Responsiveness]]
-== Responsiveness
+[#responsiveness]
+=== Responsiveness
+
 // tag::quoute[] 
 The manager should respond on time. + 
 Always.
@@ -10,7 +11,7 @@ It is not only about fast response times but change management as well.
 
 The _Reactive Manager_ effectively detects and deals with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager does not know the correct answer or gives not an complete answer, but still delivers value.
 
-=== Implications
+==== Implications
 
 The manager is always a proxy in the data flow. The manager is either asked for some information or given the information.
 
@@ -32,6 +33,3 @@ Characterized by close to real-time response time but limited in a target group 
 Characterized by time decoupling. There is no expectation to receive a response immediately. Easy to miss-understand the request or to miss the entire request, or the recipient can miss the response. While mail providers can guarantee envelope delivery but none can guarantee that message will full-fill it's goal.
 
 Effective communication is clear, concise, professional, and credible. It saves time. It is always acknowledged.
-
-[#Navigate]
-<- link:reactive_principles.adoc[Back to Reactive Principles]
