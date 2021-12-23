@@ -2,16 +2,19 @@
 :Author:    Maksym Tereshchenko
 :Date:      23.12.2021
 :Revision:  1.0.0
+:sectnums:
+:toc: left
+:toclevels: 2
 
-_Reactive Operational Principles in People Management_
+Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox.
+So far, it takes decades to recognize, appreciate and implement *BIG* changes in people management.
 
 [NOTE]
 ===============================
 The purpose of that document is to empower visionary leadership.
 ===============================
 
-Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox.
-So far, it takes decades to recognize, appreciate and implement *BIG* changes in people management.
+== Reactive Operational Principles in People Management
 
 The complexity of environments we work in is growing. Paradigms, methods, frameworks, patterns, and mental models become part of the managerial toolbox. It is the leaders' responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
 
@@ -28,27 +31,16 @@ To be _Reactive_ means::
 
 It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
 
-Human interactions are complex. Operations and processes can be complex as well. Dynamic nature of the managerial environment highlights some assumptions:
+Human interactions are complex. Operations and processes can be complex as well. The dynamic nature of the managerial environment highlights some assumptions:
 
 * non-deterministic outcomes for the action
 * non-deterministic outcomes for the no-action
 * continuous calibration required
 * in-build observability required
-* past experience cannot be externally 'patternezied' for future re-usage
+* previous experience cannot be externally 'patterned' for future re-usage
 
 To cope with these assumptions, any tool should be highly flexible and adaptive.
-Putting strict requirements upfront makes no sense. Instead the accent should be on _Elasticity_. While the content and the shape matters, the _Responsiviness_ is a must have. Ability to operate in the face of exceptional situations is nothing else, then _Resilience_.
-_Responsiveness_, _Elasticity_ and _Resilience_ - are the pillars of _Reactive Principles_.
+Putting strict requirements upfront makes no sense. Instead, the accent should be on _Elasticity_. While the content and the shape matter, the _Responsiviness_ is a must-have. The ability to operate in the face of exceptional situations is nothing else than _Resilience_.
+_Responsiveness_, _Elasticity_, and _Resilience_ - are the pillars of _Reactive Principles_.
 
-[Reactive_Principles]
-====
-link:principles/reactive_principles.adoc[Reactive Principles:]:: 
-    * link:principles/reactive_principles.adoc#Responsiveness[Responsiveness]::
-include::principles/responsiveness.adoc[tag=quoute]
-
-    * link:principles/reactive_principles.adoc#Elasticity[Elasticity]::
-include::principles/elasticity.adoc[tag=quoute]
-
-    * link:principles/reactive_principles.adoc#Resilience[Resilience]::
-include::principles/resilience.adoc[tag=quoute]
-====
+include::principles/reactive_principles.adoc[reactive-principles]

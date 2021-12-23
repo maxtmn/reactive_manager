@@ -1,4 +1,5 @@
-== Resilience
+[#resilience]
+=== Resilience
 
 // tag::quoute[] 
 The manager stays responsive in the face of failure.
@@ -6,7 +7,7 @@ The manager stays responsive in the face of failure.
 
 The _Reactive Manager_ can operate under exceptional situations. _Resilience_ can be achieved by knowledge sharing, transparency, and delegation.
 
-=== Implications
+==== Implications
 
 While, physically, a manager is loosely coupled to infrastructure and can continue to function under adverse conditions, operational processes, if not designed properly, can be broken or cause failures.
 
@@ -26,6 +27,3 @@ The _Reactive Manager_ should follow the mental model that acknowledges the fact
 The resilience is achieved by a higher degree of redundancy. The same information is replicated to many peers to allow timely usage in the face of unreliable communication.
 
 An operational process should be idempotent: the outcome of processing the same operation repeatedly must be the same as processing it once.
-
-[#Navigate]
-<- link:reactive_principles.adoc[Back to Reactive Principles]
