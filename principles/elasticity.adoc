@@ -1,13 +1,47 @@
 == Elasticity
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
+// tag::quoute[] 
 The manager stays responsive under varying workloads.
+// end::quoute[] 
 
 _Reactive manager_ can react to changes in the tasks input rate by increasing or decreasing resources available for the process. 
-This implies designs of processes that have no contention points or central bottlenecks, resulting in the ability to share the tasks with peers and distribute inputs among them. 
+This implies designs of processes that have no contention points or central bottlenecks. 
+_Reactive Manager_ can share tasks with peers and distribute workload among them. 
 Processes built by the reactive manager are predictive and easy to live performance check.
 
 TIP: You are never too busy if you are running an efficient operation.
 
-[#Back_To]
+_Elasticity_ is achieved by redundancy in resources sharing.
+
+=== Implications
+
+_Elasticity_ in the face of resource sharing is limited by actor characteristics. 
+
+Limitations::
+. Managerial processes are bound to its actor - a manager. 
++
+* Human beings are not multiply-able and rarely interchangeable
+* Scalability is limited by the ability to proceed with mental tasks
+* Cognitive functions are affected by many factors
+* Effectiveness is not constant and can vary
+
+. The mental model for operations processing is orchestration.
+
+* A manager is a central point in the process flow 
+* Action effects are consumed by a manager and used for further decision-making
+* Tight coupling
+* The process flow is anemic
+
+A natural limit for scalability is *working memory* capacity. Without affecting overall performance, *working memory* can hold 3 to 7 tasks on average.  
+
+"Working memory":: 
+describes a unique short-term active storage mechanism that is used to achieve a variety of cognitive activities: including thinking, reasoning, judging, decision-making, and language comprehension.
+
+When there is a demand to run more operations (processes) than manager *working memory* capacity, there will be a performance drop-off.
+
+Anemic processes are hard to share or delegate. It requires an expensive process of knowledge sharing and state synchronization. Both time and resources consuming. 
+
+When possible, processes should co-locate data, processes, and decision-making mechanisms. Turning anemic processes into the rich ones and alowing low-cost processes delegation or sharing.
+
+[#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]

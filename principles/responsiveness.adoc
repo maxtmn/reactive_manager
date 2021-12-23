@@ -1,15 +1,37 @@
+[[Responsiveness]]
 == Responsiveness
-ifdef::env-vscode[:relfilesuffix: .adoc]
-
+// tag::quoute[] 
 The manager should respond on time. + 
 Always.
-
-The manager is always a proxy in the data flow. Either asked for some information or given the information to be delivered. 
+// end::quoute[]
 
 It doesn't matter if a manager has all the resources needed to run the processes right if a manager cannot react/respond within the time constraints. 
-It is not only about the fast response time, but also about managing changes. 
+It is not only about fast response times but change management as well. 
 
-_Reactive manager_ effectively detect and deal with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager do not know the right answer or provide not full answer, but still deliver a value.
+The _Reactive Manager_ effectively detects and deals with problems. Focus on providing rapid and consistent response times. In the worst-case, a manager does not know the correct answer or gives not an complete answer, but still delivers value.
 
-[#Back_To]
+=== Implications
+
+The manager is always a proxy in the data flow. The manager is either asked for some information or given the information.
+
+The entry point for the _Responsiveness_ is managers' input channels. Nowadays, we are overwhelmed with possible inputs: social media, phone, text messages, emails, notifications, face-to-face, group meetings, etc. All parties must share the same expectations and understanding of the communication channel. 
+There are some general suggestions for response times.
+
+*Face-to-Face*::
+JIT. Just-In-Time. A question needs to be answered during the conversation. If there is not enough information to provide a complete (or correct) response: the partial response is given. With the agreement on When/How further information can be received.
+
+*Emails*::
+Hours to Days. Hard to imagine the setup without 'a corporate mail box'. The main source of truth for escalations and decisions approvals. _One-size-fits-all_ approach turns *emails* into the noisiest channel. Hughe distribution lists; partial context or no context; blurred timelines; not clear, not defined priorities. All of these require extra care to provide a consistent response. 
+
+No communication channel is perfect or close to perfect. 
+
+*Face-to-Face*::
+Characterized by close to real-time response time but limited in a target group (one-to-one in most cases), and there is always a risk of missing information to provide a complete response.
+
+*Emails*::
+Characterized by time decoupling. There is no expectation to receive a response immediately. Easy to miss-understand the request or to miss the entire request, or the recipient can miss the response. While mail providers can guarantee envelope delivery but none can guarantee that message will full-fill it's goal.
+
+Effective communication is clear, concise, professional, and credible. It saves time. It is always acknowledged.
+
+[#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]

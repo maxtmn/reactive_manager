@@ -1,8 +1,31 @@
 == Resilience
-ifdef::env-vscode[:relfilesuffix: .adoc]
 
-Reactive manager stays responsive in the face of failure. + 
-Reactive manager can operate under the exceptional situations. Resilience is achieved by knowledge sharing, transparency and delegation.
+// tag::quoute[] 
+The manager stays responsive in the face of failure.
+// end::quoute[] 
 
-[#Back_To]
+The _Reactive Manager_ can operate under exceptional situations. _Resilience_ can be achieved by knowledge sharing, transparency, and delegation.
+
+=== Implications
+
+While, physically, a manager is loosely coupled to infrastructure and can continue to function under adverse conditions, operational processes, if not designed properly, can be broken or cause failures.
+
+Resilient processes are loosely coupled to their dependencies. 
+
+A manager:: 
+* can change a position in the company hierarchy
+* can change office location
+* can switch to a new team
+* can switch to full-remote 
+* etc.
+
+This may make a manager unreachable for previous communications, dependencies. All dependencies need to be treated as temporary.
+
+The _Reactive Manager_ should follow the mental model that acknowledges the fact that decisions must be based on incomplete information (available at the moment), and therefore, might need to be revised later if they are recognized as faulty.
+
+The resilience is achieved by a higher degree of redundancy. The same information is replicated to many peers to allow timely usage in the face of unreliable communication.
+
+An operational process should be idempotent: the outcome of processing the same operation repeatedly must be the same as processing it once.
+
+[#Navigate]
 <- link:reactive_principles.adoc[Back to Reactive Principles]
