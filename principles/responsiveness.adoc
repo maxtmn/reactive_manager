@@ -1,3 +1,4 @@
+[[Responsiveness]]
 == Responsiveness
 // tag::quoute[] 
 The manager should respond on time. + 
