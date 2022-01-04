@@ -16,7 +16,7 @@ Quick and often application requirements changes become the precursor for a new 
 * edge-native applications 
 * etc.
 
-New systems are built with *Reactive Principles*footnote:disclamer[https://principles.reactive.foundation/index.html] in their souls.
+New systems are built with *Reactive Principles*{empty}footnote:disclamer[https://principles.reactive.foundation/index.html] in their souls.
 
 While engineers start to adopt a new paradigm, they digest it and absorb it. New mental models build upon it. The term *Reactive* gain its' popularity.
 
