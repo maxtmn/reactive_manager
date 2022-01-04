@@ -33,7 +33,7 @@ Limitations::
 * Tight coupling
 * The process flow is anemic
 
-A natural limit for scalability is *working memory* capacity. Without affecting overall performance, *working memory* can hold 3 to 7 tasks on average.  
+A natural limit for scalability is *working memory*{empty}footnote:disclaimer[https://en.wikipedia.org/wiki/Working_memory] capacity. Without affecting overall performance, *working memory* can hold 3 to 7 tasks on average.  
 
 [NOTE]
 ====
