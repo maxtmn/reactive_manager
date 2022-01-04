@@ -1,24 +1,20 @@
 = The Reactive Management
 :Author:    Maksym Tereshchenko
-:Date:      23.12.2021
-:Revision:  1.0.0
+:Date:      04.01.2022
+:Revision:  1.0.1
 :sectnums:
 :toc: left
 :toclevels: 2
 
-Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox.
-So far, it takes decades to recognize, appreciate and implement *BIG* changes in people management.
+Empathy, Emotional Intelligence, Growing Mindset, Visionary Leadership, Behavioural science, Feedback Culture, Diversity, Networking - the only few building blocks from the managerial toolbox. 
 
-[NOTE]
-===============================
-The purpose of that document is to empower visionary leadership.
-===============================
+Even though the purpose of that document is to empower visionary leadership, described principles are applicable in all managerial interactions. The main actor in these principles is a person.
 
 == Reactive Operational Principles in People Management
 
 The complexity of environments we work in is growing. Paradigms, methods, frameworks, patterns, and mental models become part of the managerial toolbox. It is the leaders' responsibility to choose and to implement the best suitable set of operational principles and guidelines: for the specific project, team or client, at the current time. 
 
-The expectation for the people leaders is not only to be fluent in operational frameworks but to be a part of a change, to be the _Reactive Manager_.
+The expectation for the people leaders is not only to be fluent in operational frameworks but to be a part of a change, to be the change agent, to be the _Reactive Manager_.
 
 To be _Reactive_ does not mean to wait for something to happen before acting. 
 
@@ -29,15 +25,15 @@ To be _Reactive_ means::
 . to be resilient
 . to accumulate enough potential energy for changes
 
-It is no longer about the single person. All that we do is either driven by social changes or influence society. _Reactive Management_ is the product of a diverse and distributed society.
-
-Human interactions are complex. Operations and processes can be complex as well. The dynamic nature of the managerial environment highlights some assumptions:
+Interactions, operations and processes are complex and multi-dimensional. Processes modeling based on a single person is too simplified. All we do is either driven by social changes or influence society. +
+_Reactive Management_ is the product of a diverse and distributed society.
+The dynamic nature of the managerial environment highlights some assumptions:
 
 * non-deterministic outcomes for the action
 * non-deterministic outcomes for the no-action
 * continuous calibration required
 * in-build observability required
-* previous experience cannot be externally 'patterned' for future re-usage
+* previous experience cannot be externally 'patterned' for future re-usage. What you have experianced will stay with you, but it is hard to create patterns (instructions) based on that experiance
 
 To cope with these assumptions, any tool should be highly flexible and adaptive.
 Putting strict requirements upfront makes no sense. Instead, the accent should be on _Elasticity_. While the content and the shape matter, the _Responsiviness_ is a must-have. The ability to operate in the face of exceptional situations is nothing else than _Resilience_.
