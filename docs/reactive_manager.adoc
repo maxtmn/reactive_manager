@@ -28,7 +28,7 @@ To be _Reactive_ means::
 . to be resilient
 . to accumulate enough potential energy for changes
 
-Interactions, operations and processes are complex and multi-dimensional. Processes modeling based on a single person is too simplified. All we do is either driven by social changes or influence society. +
+Interactions, operations, and processes are complex and multi-dimensional. Processes modeling based on a single person is too simplified. All we do is either driven by social changes or influence society. +
 _Reactive Management_ is the product of a diverse and distributed society.
 The dynamic nature of the managerial environment highlights some assumptions:
 
@@ -36,10 +36,10 @@ The dynamic nature of the managerial environment highlights some assumptions:
 * non-deterministic outcomes for the no-action
 * continuous calibration required
 * in-build observability required
-* previous experience cannot be externally 'patterned' for future re-usage. What you have experianced will stay with you, but it is hard to create patterns (instructions) based on that experiance
+* previous experience cannot be externally 'patterned' for future re-usage. What you have experienced will stay with you, but it is hard to create patterns (instructions) based on that experience
 
 To cope with these assumptions, any tool should be highly flexible and adaptive.
-Putting strict requirements upfront makes no sense. Instead, the accent should be on _Elasticity_. While the content and the shape matter, the _Responsiviness_ is a must-have. The ability to operate in the face of exceptional situations is nothing else than _Resilience_.
+Putting strict requirements upfront makes no sense. Instead, the accent should be on _Elasticity_. While the content and the shape matter, _Responsiveness_ is a must-have. The ability to operate in the face of exceptional situations is nothing else than _Resilience_.
 _Responsiveness_, _Elasticity_, and _Resilience_ - are the pillars of _Reactive Principles_.
 
 include::principles/reactive_principles.adoc[reactive-principles]
